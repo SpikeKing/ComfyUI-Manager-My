@@ -1687,7 +1687,7 @@ import asyncio
 
 async def default_cache_update():
     async def get_cache(filename):
-        uri = 'https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/' + filename
+        uri = 'https://raw.gitmirror.com/https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/' + filename
         cache_uri = str(core.simple_hash(uri)) + '_' + filename
         cache_uri = os.path.join(core.cache_dir, cache_uri)
 

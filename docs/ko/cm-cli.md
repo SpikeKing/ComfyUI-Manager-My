@@ -55,7 +55,7 @@ OPTIONS:
 ```
 -= ComfyUI-Manager CLI (V2.24) =-
 
-FETCH DATA from: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+FETCH DATA from: https://raw.gitmirror.com/https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
 [    ENABLED    ]  ComfyUI-Manager                                   (author: Dr.Lt.Data)
 [    ENABLED    ]  ComfyUI-Impact-Pack                               (author: Dr.Lt.Data)
 [    ENABLED    ]  ComfyUI-Inspire-Pack                              (author: Dr.Lt.Data)
@@ -72,7 +72,7 @@ FETCH DATA from: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main
 ```
 -= ComfyUI-Manager CLI (V2.24) =-
 
-FETCH DATA from: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+FETCH DATA from: https://raw.gitmirror.com/https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
 ComfyUI-Manager                                   
 ComfyUI-Impact-Pack                               
 ComfyUI-Inspire-Pack                              
